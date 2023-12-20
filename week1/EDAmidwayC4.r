@@ -1,3 +1,7 @@
+
+
+# Code from: https://bookdown.org/steve_midway/DAR/exploratory-data-analysis.html#exploratory-data-analysis
+
 # Tabulate earthquakes by magnitude
 magnitude.counts <- table(quakes$mag)
 # plot counts of earthquakes by magnitude
